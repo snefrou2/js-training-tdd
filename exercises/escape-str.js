@@ -8,7 +8,7 @@
  */
 
 // Your code:
-
+const escapeStr = "I\'m sophie / neuville \\ I have 33. my favorite string is  \"hello\"`goodbye "
 //* Begin of tests
 const assert = require('assert');
 
