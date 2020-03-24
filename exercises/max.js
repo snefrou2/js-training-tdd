@@ -26,3 +26,4 @@ assert.strictEqual(max(-1, 10), 10);
 assert.strictEqual(max(-13.2, -222), -13.2);
 assert.strictEqual(max(132, 133), 133);
 // End of tests */
+//ok
