@@ -7,7 +7,9 @@
  */
 
 // Your code:
-
+function sub(a, b){
+return a-b
+}
 //* Begin of tests
 const assert = require('assert');
 const rand = Math.random();
@@ -18,3 +20,4 @@ assert.strictEqual(sub(2, 2), 0);
 assert.strictEqual(sub(-2, 2), -4);
 assert.strictEqual(sub(rand, rand), rand - rand);
 // End of tests */
+//OK
