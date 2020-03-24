@@ -7,7 +7,9 @@
  */
 
 // Your code:
-
+function id(element){
+return element
+}
 //* Begin of tests
 const assert = require('assert');
 
@@ -17,3 +19,5 @@ assert.strictEqual(id(5), 5);
 assert.strictEqual(id('pouet'), 'pouet');
 assert.strictEqual(id(assert), assert);
 // End of tests */
+
+//OK
