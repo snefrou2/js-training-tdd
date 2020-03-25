@@ -20,3 +20,4 @@ assert.strictEqual(getLast([ getLast ]), getLast);
 assert.strictEqual(getLast('salut'), 't');
 assert.strictEqual(getLast([]), undefined);
 // End of tests */ 
+//ok

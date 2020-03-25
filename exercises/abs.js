@@ -26,3 +26,4 @@ assert.strictEqual(abs(-1), 1);
 assert.strictEqual(abs(-13.2), 13.2);
 assert.strictEqual(abs(132), 132); 
 // End of tests */
+//ok
