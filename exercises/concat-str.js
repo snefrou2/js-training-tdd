@@ -18,3 +18,4 @@ assert.strictEqual(concatStr.length, 2, 'Should takes 2 arguments');
 assert.strictEqual(concatStr('a', 'b'), 'ab');
 assert.strictEqual(concatStr('yolo', 'swag'), 'yoloswag');
 // End of tests */
+//ok
